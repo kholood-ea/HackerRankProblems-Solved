@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ComparingTriplets.cs" />
+    <Compile Include="DiagonalDifference.cs" />
     <Compile Include="MinAbsoluteDifference.cs" />
     <Compile Include="BirthdayCandles.cs" />
     <Compile Include="MiniMaxSum.cs" />

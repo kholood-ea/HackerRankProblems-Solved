@@ -10,15 +10,16 @@ namespace HackerRank
     {
         static void Main(string[] args) =>
 
-      // ComparingTriplets.Run();
-      // PlusMinusFraction.ReadVariables();
-      // Staircase.ReadVariables();
-      //ReverseOrderOfArray.ReadVariables();
+     // ComparingTriplets.Run();
+     // PlusMinusFraction.ReadVariables();
+     // Staircase.ReadVariables();
+     //ReverseOrderOfArray.ReadVariables();
 
-      // MiniMaxSum.ReadVariables();
-      //MinAbsoluteDifference.ReadVariables();
-      // BirthdayCandles.ReadVariables();
-      VeryBigSum.ReadVariables();
+     // MiniMaxSum.ReadVariables();
+     //MinAbsoluteDifference.ReadVariables();
+     // BirthdayCandles.ReadVariables();
+     // VeryBigSum.ReadVariables();
+     DiagonalDifference.ReaVariables();
         
 
 
