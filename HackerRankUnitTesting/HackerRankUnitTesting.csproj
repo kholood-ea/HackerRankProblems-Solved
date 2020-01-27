@@ -49,8 +49,10 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BreakingRecordsUnitTest.cs" />
     <Compile Include="ComparingTripletsUnitTest.cs" />
     <Compile Include="DiagonalDifferenceUnitTest.cs" />
+    <Compile Include="GradingStudentsUnitTest.cs" />
     <Compile Include="PlusMinusFractionUnitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MiniMaxSumUnitTest.cs" />
